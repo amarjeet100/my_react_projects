@@ -17,6 +17,13 @@ const products = [
     name: "iPad Air",
     price: "₹69,999",
     img: "iPad Air .jpeg"
+  },
+
+  {
+    id: 4,
+    name: "AirPods Pro",
+    price: "₹1,500",
+    img: "AirPods Pro .jpeg"
   }
 ];
 
